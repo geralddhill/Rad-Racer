@@ -1,7 +1,7 @@
 # Rad Racer
 
 A simple 2-D kart racing game for the console! Plays as either the Lightning Car, Swift Bike, or Behemoth Truck!\
-Try to make it to the end without hitting to many obstacles that will slow you down!\
+Try to make it to the end without hitting to many obstacles that will slow you down!
 
 ## Karts
 
