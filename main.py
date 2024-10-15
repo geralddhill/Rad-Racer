@@ -18,6 +18,7 @@ def generate_map():
     map = [['-'] * 100,['-'] * 100,['-'] * 100]
 
     for i in range(3):
+        map[i][0] = '*'
         for j in range(2):
             obstacle_loc = randint(1, 98)
             map[i][obstacle_loc] = 'O'
